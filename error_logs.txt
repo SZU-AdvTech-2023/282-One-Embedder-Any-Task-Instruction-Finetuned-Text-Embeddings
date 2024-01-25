@@ -1,0 +1,64 @@
+2023-12-18 18:40:17.260760 >>> ArguAna
+Traceback (most recent call last):
+  File "/home/zxr/code/instructor/evaluation/MTEB/mteb/abstasks/BeIRTask.py", line 16, in load_data
+    from beir import util
+ModuleNotFoundError: No module named 'beir'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/zxr/code/instructor/evaluation/MTEB/mteb/evaluation/MTEB.py", line 230, in run
+    task.load_data(eval_splits=task_eval_splits)
+  File "/home/zxr/code/instructor/evaluation/MTEB/mteb/abstasks/BeIRTask.py", line 18, in load_data
+    raise Exception("Retrieval tasks require beir package. Please install it with `pip install mteb[beir]`")
+Exception: Retrieval tasks require beir package. Please install it with `pip install mteb[beir]`
+
+
+2023-12-18 21:41:18.957084 >>> ArguAna
+Traceback (most recent call last):
+  File "/home/zxr/code/instructor/evaluation/MTEB/mteb/abstasks/BeIRTask.py", line 16, in load_data
+    from beir import util
+ModuleNotFoundError: No module named 'beir'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/zxr/code/instructor/evaluation/MTEB/mteb/evaluation/MTEB.py", line 230, in run
+    task.load_data(eval_splits=task_eval_splits)
+  File "/home/zxr/code/instructor/evaluation/MTEB/mteb/abstasks/BeIRTask.py", line 18, in load_data
+    raise Exception("Retrieval tasks require beir package. Please install it with `pip install mteb[beir]`")
+Exception: Retrieval tasks require beir package. Please install it with `pip install mteb[beir]`
+
+
+2023-12-18 22:27:24.367588 >>> ArguAna
+Traceback (most recent call last):
+  File "/home/zxr/code/instructor/evaluation/MTEB/mteb/abstasks/BeIRTask.py", line 16, in load_data
+    from beir import util
+ModuleNotFoundError: No module named 'beir'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/zxr/code/instructor/evaluation/MTEB/mteb/evaluation/MTEB.py", line 230, in run
+    task.load_data(eval_splits=task_eval_splits)
+  File "/home/zxr/code/instructor/evaluation/MTEB/mteb/abstasks/BeIRTask.py", line 18, in load_data
+    raise Exception("Retrieval tasks require beir package. Please install it with `pip install mteb[beir]`")
+Exception: Retrieval tasks require beir package. Please install it with `pip install mteb[beir]`
+
+
+2023-12-18 22:29:30.487605 >>> ArguAna
+Traceback (most recent call last):
+  File "/home/zxr/code/instructor/evaluation/MTEB/mteb/abstasks/BeIRTask.py", line 16, in load_data
+    from beir import util
+ModuleNotFoundError: No module named 'beir'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/zxr/code/instructor/evaluation/MTEB/mteb/evaluation/MTEB.py", line 230, in run
+    task.load_data(eval_splits=task_eval_splits)
+  File "/home/zxr/code/instructor/evaluation/MTEB/mteb/abstasks/BeIRTask.py", line 18, in load_data
+    raise Exception("Retrieval tasks require beir package. Please install it with `pip install mteb[beir]`")
+Exception: Retrieval tasks require beir package. Please install it with `pip install mteb[beir]`
+
+
